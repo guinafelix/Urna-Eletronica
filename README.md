@@ -1,7 +1,7 @@
 # Urna-Eletronica
 Sistema de urna eletrônica utilizando HTML5, CSS e JavaScript.
 
-Este projeto simula o processo de votação em uma urna eletrônica. É possível votar para Prefeito e Veareador.
+Este projeto simula o processo de votação em uma urna eletrônica. É possível votar para Prefeito e Vereador.
 
 ## Opções para Prefeito:
 <h4>Opção 1 - 99</h2>
